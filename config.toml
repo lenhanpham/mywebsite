@@ -1,0 +1,64 @@
+baseURL = "https://lenhanpham.github.io/"
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "en"
+paginate = 4
+theme = "lenhantheme"
+title = "Le Nhan Pham"
+
+disqusShortname = ""
+googleAnalytics = ""
+pygmentsUseClasses = true
+
+[author]
+name = "author"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "LNP"
+  name = "LNP"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 3
+[[menu.main]]
+  identifier = "publication"
+  name = "Publication"
+  url = "/publication/"
+  weight = 4
+[[menu.main]]
+  identifier = "programing"
+  name = "Programing"
+  url = "/programing/"
+  weight = 5
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/post/"
+  weight = 6 
+  [[menu.main]]
+  identifier = "vietnamese"
+  name = "Tiếng Việt"
+  url = "/vietnamese/"
+  weight = 7  
+
+
+[params]
+  custom_css = []
+  description = "an example site for hugo theme TeXify"
+  enable_mathjax = true
+  footnote = "Follow me on <a class=link href=https://github.com/lenhanpham>GitHub</a>, <a class=link href=https://twitter.com/lenhanpham1>Twitter</a> or <a class=link href=/index.xml>RSS</a> | <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank rel=noopener>CC BY-NC-SA 4.0</a>"
+  keywords = ["hugo", "latex", "theme"]
