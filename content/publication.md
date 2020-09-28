@@ -71,6 +71,6 @@ Title: Properties of small 3d-metal based clusters: A journey from wave function
 
 ### Conference presentations
 
-(2) Pham, L. N.; Nguyen, M. T. “ScSi2-/0 and TiGe2-/0: Electronic Structures and Insights into Anion Photoelectron Spectra.” WATOC-2017, Munich Germany, Poster presentation 2017 (abstract).
+(2) Pham, L. N.; Nguyen, M. T. “ScSi<sub>2</sub><sup>-/0</sup> and TiGe<sub>2</sub><sup>-/0</sup>: Electronic Structures and Insights into Anion Photoelectron Spectra.” WATOC-2017, Munich Germany, Poster presentation 2017 (abstract).
 
-(1) Pham, L. N.; Hendrickx, M. F.A.; Nguyen, M. T. “Electronic Transition in Anion Photoelectron Spectra of VC2- and ScSi2- Clusters.” 2nd Annual Meeting and Conference of the European Joint Doctorate in Theoretical Chemistry and Computational Modelling, EJD-TCCM, Leuven Belgium, Poster presentation 2017 (abstract). 
+(1) Pham, L. N.; Hendrickx, M. F.A.; Nguyen, M. T. “Electronic Transition in Anion Photoelectron Spectra of VC<sub>2</sub><sup>-</sup> and ScSi<sub>2</sub><sup>-</sup> Clusters.” 2nd Annual Meeting and Conference of the European Joint Doctorate in Theoretical Chemistry and Computational Modelling, EJD-TCCM, Leuven Belgium, Poster presentation 2017 (abstract). 

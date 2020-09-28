@@ -11,7 +11,7 @@ googleAnalytics = ""
 pygmentsUseClasses = true
 
 [author]
-name = "author"
+name = "Le Nhan Pham"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -39,26 +39,26 @@ name = "author"
   name = "Publication"
   url = "/publication/"
   weight = 4
-[[menu.main]]
-  identifier = "programing"
-  name = "Programing"
-  url = "/programing/"
-  weight = 5
-[[menu.main]]
-  identifier = "archives"
-  name = "Archives"
-  url = "/post/"
-  weight = 6 
-  [[menu.main]]
-  identifier = "vietnamese"
-  name = "Tiếng Việt"
-  url = "/vietnamese/"
-  weight = 7  
+#[[menu.main]]
+#  identifier = "programing"
+#  name = "Programing"
+#  url = "/programing/"
+#  weight = 5
+#[[menu.main]]
+#  identifier = "archives"
+# name = "Archives"
+# url = "/post/"
+# weight = 6 
+# [[menu.main]]
+# identifier = "vietnamese"
+# name = "Tiếng Việt"
+# url = "/vietnamese/"
+# weight = 7  
 
 
 [params]
   custom_css = []
-  description = "an example site for hugo theme TeXify"
+  description = "Personal website of Le Nhan Pham"
   enable_mathjax = true
-  footnote = "Follow me on <a class=link href=https://github.com/lenhanpham>GitHub</a>, <a class=link href=https://twitter.com/lenhanpham1>Twitter</a> or <a class=link href=/index.xml>RSS</a> | <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank rel=noopener>CC BY-NC-SA 4.0</a>"
+  footnote = "<a class=link href=https://github.com/lenhanpham>GitHub</a>, <a class=link href=https://twitter.com/lenhanpham1>Twitter</a> or <a class=link href=/index.xml>RSS</a> | <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank rel=noopener>CC BY-NC-SA 4.0</a>"
   keywords = ["hugo", "latex", "theme"]
