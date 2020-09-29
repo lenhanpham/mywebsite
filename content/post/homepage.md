@@ -13,7 +13,7 @@ Main research topics: 2D materials, Biological materials, Transition metal oxide
 
 Programing: Python, C++ (beginner), bash script 
 
-Experience with: Molcas, Molpro,  Gaussian, Turbomole, Quantum Espresso, ADF, Materials Studio (CASTEP, DMOL3), Orca, Gromacs
+Experience with: Molcas, Molpro,  Gaussian, Turbomole, Quantum Espresso, ADF, Materials Studio (CASTEP, DMOL<sup>3</sup>), Orca, Gromacs
 
 [Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
 
