@@ -14,6 +14,6 @@ He obtained his Ph.D. from University of Leuven, Belgium (September 2019).
 
 His research is in the field of Computational and Theoretical Chemistry. 
 
-[Giới thiệu về tác giả bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
+[Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
 
 <!--more-->
