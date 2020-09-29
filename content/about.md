@@ -19,13 +19,13 @@ draft: false
 
 Homepage:
 
-<https://lenhanpham.github.io>
+[https://lenhanpham.github.io](https://lenhanpham.github.io)
 
-<https://sites.google.com/view/lenhanpham>
+[https://sites.google.com/view/lenhanpham](https://sites.google.com/view/lenhanpham)
 
 Personal email: lenhanhoaqn[at]gmail.com
 
-Google scholar: <https://scholar.google.com/citations?user=yC7hLR0AAAAJ&hl=en>
+Google scholar: [Google Scholar](https://scholar.google.com/citations?user=yC7hLR0AAAAJ&hl=en "Google Scholar")
 
 CV: [Le-Nhan-Pham.pdf](https://drive.google.com/file/d/12FOkFJByIS6zgvelCqHtm_DUc9dUcuAn/view "CV")
 
