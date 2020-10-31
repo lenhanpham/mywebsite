@@ -22,6 +22,10 @@ author = "Hugo Authors"
 
 In an attempt to learn programming, I have created a small program written in Python 3, which can solve the Schrodinger equation for HHe+ at the Hartree-Fock level. If you are interested in Python programming and basic quantum chemical theory, just have a look at it (on [Github](https://github.com/lenhanpham/Hartree-Fock "Hartree-Fock")). In the future, this program will be improved and updated.
 
-##### 2. Small quantum chemical program written in C++ 
+##### 2. Python code to determine contact angle of droplets on the surface of materials 
+
+This is a piece of python code used to determine contact angles of a  droplet on a surface. A 2D number-density map from Gromacs MD  simulations is in need. This piece of code was written during my postdoctoral time at Institute for Frontier Materials (IFM) - Deakin University. This code is a part of a project with the aim to  develop a new MD force field for simulation of biological molecules  adsorbed the MoS2 surface. The code is self-explanatory. Since the project is in it progress and not published yet, it's [github repository](https://github.com/lenhanpham/water-contact-angle) is temporarily set to private. If you are really interested in this code and would like to use it your your work, please send me some words about your project and purpose, access to the code will be granted. (will be updated soon) 
+
+##### 3. Small quantum chemical program written in C++ 
 
 This program is under development, and will be available on Github very soon.

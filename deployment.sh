@@ -24,3 +24,5 @@ git push origin master
 #if not because public dir  removed and generated again, just try
 git push -f origin master
 
+#rename index(in-vietnamese).html to index.html and copy it to vietnamese directory in the public dir to change font support Vietnamese.
+
