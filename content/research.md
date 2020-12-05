@@ -28,7 +28,7 @@ This is a piece of python code used to determine contact angles of a  droplet on
 
 ##### 3. A bunch of bash scripts used for output analyses, input generation (Gaussian, Quantum Espresso, Molcas, Molpro)
 
- Some bash scripts written during the PhD and Postdoctoral time can be found on my [github](https://github.com/lenhanpham/analysis-scripts). Description and instruction will be updated for every script once I have spare time. If you would like to modify and use these script, feel free to do it. Note that take the risk yourself if anything wrong just happens to your data. I am happy to give answers to any question related to these scripts. 
+ Some bash scripts written during my PhD and postdoctoral research can be found on my [github](https://github.com/lenhanpham/analysis-scripts). Description and instruction will be updated for every script once I have spare time. If you would like to modify and use these script, feel free to do it. Note that take the risk yourself if anything wrong just happens to your data. I am happy to give answers to any question related to these scripts. 
 
 ##### 4. Small quantum chemical program written in C++ 
 
