@@ -19,7 +19,7 @@ hugo --noTimes
 
 cd public
 
-git add .
+git add . 
 
 git commit -m "deployment of website"
 
@@ -29,7 +29,9 @@ git push origin master
 ##if not ok because public dir  removed and generated again, just try
 git push -f origin master 
 
+### To center image and its size edit html file directly 
 
+Add this right after img tag jus before src: style="display: block; margin-left: auto; margin-right: auto;"
 
 ####If another person has pushed to the same branch as you, Git won't be able to push your changes:
 

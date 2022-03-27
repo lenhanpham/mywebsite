@@ -4,6 +4,16 @@ date: 2020-09-28T20:01:52+10:00
 draft: false
 ---
 
+### LE NHAN PHAM
+
+<center>{{< figure src="https://pbs.twimg.com/profile_images/1215084408325099522/WtlTgsec_400x400.jpg" width="170">}}</center>
+
+I am a chemist whose research experience is related to physical & theoretical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&biological materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University and visiting scholar at Department of Physics, RMIT,  Australia. I was also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam. 
+
+[Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
+
+<!--more-->
+
 ### Personal information
 
 ---------------------------------- -------------------------------------------------------------
@@ -20,8 +30,6 @@ draft: false
 Homepage:
 
 [https://lenhanpham.github.io](https://lenhanpham.github.io)
-
-[https://sites.google.com/view/lenhanpham](https://sites.google.com/view/lenhanpham)
 
 Personal email: lenhanhoaqn[at]gmail.com
 
@@ -43,7 +51,7 @@ journey from wave function to density functional methods"
 
 **University of Science**, Ho Chi Minh City, Vietnam
 
-**M.S.**, Physical and Theoretical Chemistry, March, 2010
+**M.S.**, Physical and Theoretical Chemistry, March 2010
 
 Thesis Topic: "Fabrication of Dye Sensitized Solar Cells (DSSC) Using
 620-1H3TBA (Black Dye) and Investigation into Their Performance and
@@ -51,19 +59,7 @@ Long-term Stability"
 
 **University of Quy Nhon**, Quy Nhon, Vietnam
 
-B.E., Chemistry, May, 2005
-
-### Skills
-
-**Computational and Theoretical Chemistry**: multireference
-(CASSCF/CASPT2, RASSCF/RASPT2, NEVPT2, MRCI, DMRG), single reference
-methods (DFT, CCSD(T)), and plane-wave methods
-
-**Experience in use**: Molcas, Molpro, Dalton, Gaussian, Orca, CFOUR,
-PSI4, Turbomole, QChem, NWChem, ChemPS2, Materials Studio (Castep,
-Dmol<sup>3</sup>), ADF, Quantum Espresso, Gromacs 
-
-**Computer skills**: LaTeX, Python, C++ (beginner), Linux & Windows
+B.E., Chemistry, May 2005
 
 ### Working experience
 
@@ -73,8 +69,7 @@ University, from July 2020 to the present
 **Visiting Scholar** School of Science (Physics), RMIT University from
 February 2020 to the present
 
-**Lecturer** Department of Chemistry, Dalat University from 2010 to the
-present
+**Lecturer** Department of Chemistry, Dalat University from 2010 to 2020
 
 **Researcher** Department of Chemistry, University of Science, Vietnam
 National University of Ho Chi Minh City from 2007 to 2009

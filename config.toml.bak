@@ -4,7 +4,7 @@ languageCode = "en-us"
 languageName = "en-us"
 paginate = 4
 theme = "lenhantheme"
-title = "Nhan's everything"
+#title = "Hi there"
 
 
 disqusShortname = ""
