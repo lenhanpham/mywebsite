@@ -11,7 +11,7 @@ draft: false
 
 2. **Pham, L. N.**; Walsh, T. Predicting Biomolecule Adsorption on
    MoS<sub>2</sub> Nanosheets with High Structural Fidelity. *Chem. Sci.*
-   **2022** [doi:10.1039/D1SC06814H](https://doi.org/10.1039/D1SC06814H) <span
+   **2022**, 13, 5186-5195. [doi:10.1039/D1SC06814H](https://doi.org/10.1039/D1SC06814H) <span
    style="color:blue">**(Chem Sci Pick of the Week)**.</span>
 
 3. **Pham, L. N.**; Walsh, T. R. Force Fields for Water--Surface Interaction:
@@ -85,8 +85,7 @@ draft: false
 Title: Properties of small 3d-metal based clusters: A journey from wave function
 to density functional methods.
 
-[Description and electronic
-thesis](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2821608&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US&fromSitemap=1
+[Description and electronic dissertation](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS2821608&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US&fromSitemap=1
 "Dissertation")
 
 ### Conference presentations
