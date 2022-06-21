@@ -53,9 +53,9 @@ draft: false
    [doi:10.1021/acs.jpca.7b07459](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b07459).
 
 10. **Pham, L. N.**; Nguyen, M. T. Titanium Digermanium: Theoretical Assignment
-   Of Electronic Transitions Underlying Its Anion Photoelectron Spectrum. *J.
-   Phys. Chem. A.* **2017**, 121, pp 1940--1949.
-   [doi:10.1021/acs.jpca.7b00245](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b00245).
+      Of Electronic Transitions Underlying Its Anion Photoelectron Spectrum. *J.
+      Phys. Chem. A.* **2017**, 121, pp 1940--1949.
+      [doi:10.1021/acs.jpca.7b00245](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b00245).
 
 11. **Pham, L. N.**; Nguyen, M. T. Electronic Structure of Neutral and Anionic
     Scandium Disilicon ScSi<sub>2</sub><sup>-/0</sup> Clusters and the Related
@@ -76,7 +76,7 @@ draft: false
 
 ### Manuscripts
 
-1. Yuliana Perdomo,# **Le Nhan Pham**,<sup>#</sup> Tiffany R. Walsh and Marc R. Knecht. Sustainable, Aqueous Exfoliation of MoS<sub>2</sub> via Bio-Inspired Avenues. **2022** (in preparation)
+1. Yuliana Perdomo,<sup>#</sup> **Le Nhan Pham**,<sup>#</sup> Tiffany R. Walsh and Marc R. Knecht. Sustainable, Aqueous Exfoliation of MoS<sub>2</sub> via Bio-Inspired Avenues. **2022** (in preparation)
 
    <sup>#</sup>*equal contribution* 
 
