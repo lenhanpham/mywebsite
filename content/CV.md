@@ -8,7 +8,7 @@ draft: false
 
 <center>{{< figure src="https://pbs.twimg.com/profile_images/1215084408325099522/WtlTgsec_400x400.jpg" width="170">}}</center>
 
-I am a chemist whose research experience is related to physical & theoretical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&biological materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University and visiting scholar at Department of Physics, RMIT,  Australia. I was also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam. 
+I am a chemist whose research experience is related to physical & theoretical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&biological and polymer materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University. After PhD graduation from KU Leuven, I joined the Russo Group (Department of Physics, RMIT,  Australia) as a visiting scholar for short time. I was also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam. 
 
 [Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
 
@@ -67,7 +67,7 @@ B.E., Chemistry, May 2005
 University, from July 2020 to the present
 
 **Visiting Scholar** School of Science (Physics), RMIT University from
-February 2020 to the present
+February 2020 to June 2020
 
 **Lecturer** Department of Chemistry, Dalat University from 2010 to 2020
 

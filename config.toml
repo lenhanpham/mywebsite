@@ -2,7 +2,7 @@ baseURL = "https://lenhanpham.github.io/"
 defaultcontentlanguage = "en"
 languageCode = "en-us" 
 languageName = "en-us"
-paginate = 4
+paginate = 10
 theme = "lenhantheme"
 title = "Nhan's everything"
 
