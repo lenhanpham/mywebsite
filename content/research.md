@@ -9,9 +9,11 @@ author = "Nhan"
 ### I. Research of interests
 
 - 2D nanomaterials and biological materials
+- Polymer coating
 - Molecular dynamics force field development 
 - Semiconductor clusters doped with transition metals
 - Transition metal oxide magnetic materials 
+- Catalyst design 
 
 
 ### II. Programing
