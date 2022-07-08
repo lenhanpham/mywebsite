@@ -64,9 +64,11 @@ draft: false
 
 ### Manuscripts
 
-1. Yuliana Perdomo,<sup>#</sup> **Le Nhan Pham**,<sup>#</sup> Tiffany R. Walsh and Marc R. Knecht. Sustainable, Aqueous Exfoliation of MoS<sub>2</sub> via Bio-Inspired Avenues. **2022** (in preparation)
+1. Yuliana Perdomo,<sup>#</sup> **Le Nhan Pham**,<sup>#</sup> Tiffany R. Walsh and Marc R. Knecht. Sustainable, Aqueous Exfoliation of MoS<sub>2</sub> via Bio-Inspired Avenues. **2022** (in preparation) <sup>#</sup>*equal contribution* 
 
-   <sup>#</sup>*equal contribution* 
+1. Garima S. Dobhal, **Le Nhan Pham**, Sherif Abdulkader Tawfik, Cristina Pozo-Gonzalob and Tiffany R. Walsh, Neodymium Recovery from Ionic Liquid: Influence of Water-Induced Structural Reorganization. **2022** (under review)
+
+   
 
 ### PhD Dissertation
 
