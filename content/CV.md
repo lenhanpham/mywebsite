@@ -8,7 +8,7 @@ draft: false
 
 <center>{{< figure src="https://pbs.twimg.com/profile_images/1215084408325099522/WtlTgsec_400x400.jpg" width="170">}}</center>
 
-I am a chemist whose research experience is related to physical & theoretical chemistry and materials, particularly atomic clusters, excited states, and currently 2D&biological and polymer materials. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019), and is currently working as a postdoctoral research fellow at Deakin University. After PhD graduation from KU Leuven, I joined the Russo Group (Department of Physics, RMIT,  Australia) as a visiting scholar for short time. I was also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam. 
+I am a chemist with experience and expertise in physical and theoretical chemistry. My research domains focus much on materials, particularly atomic clusters, 2D materials, biological materials,  polymers, and catalysts. I graduated (Ph.D.) from  Department of Chemistry, University of Leuven, Belgium (September 2019). After PhD graduation, I joined the Russo Group (Department of Physics, RMIT,  Australia) as a visiting scholar for short time, and then actively worked in the group of Prof. Tiffany Walsh (Institute for Frontier Materials, Deakin University) as a postdoctoral research fellow. In July 2022, I joined the group of Prof. Michelle Coote (Flinders University) to continue my research ambition. I had been also a yearly-contract lecturer at Department of Chemistry, University of Dalat, Vietnam for 10 years. 
 
 [Giới thiệu về nghiên cứu của Phạm Lê Nhân bằng Tiếng Việt](/vietnamese/ "Click để xem bằng Tiếng Việt")
 
@@ -20,10 +20,10 @@ I am a chemist whose research experience is related to physical & theoretical ch
 
   **Researcher**  	
 
-  l.pham[at]deakin.edu.au
+  l.pham[at]flinders.edu.au
 
-  Institute for Frontier Materials   
-  Deakin University                  
+  College of Science and Engineering   
+  Flinders University                  
 
 ---------------------------------- -------------------------------------------------------------
 
@@ -63,8 +63,11 @@ B.E., Chemistry, May 2005
 
 ### Working experience
 
-**Researcher** Institute for Frontier Materials (IFM) - Deakin
-University, from July 2020 to the present
+**Research Associate** College of Science and Engineering, Flinders University,
+from July 2022 to the current
+
+**Postdoctoral Research Fellow** Institute for Frontier Materials (IFM) - Deakin
+University, from July 2020 to June 2022
 
 **Visiting Scholar** School of Science (Physics), RMIT University from
 February 2020 to June 2020
