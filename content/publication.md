@@ -8,7 +8,7 @@ draft: false
 
 1. **Pham, L. N.**; Walsh, T. Design traits for diblock copolymer coating properties
     on NaGdF<sub>4</sub> upconversion nanoparticles.  *ACS Appl. Polym. Mater.* **2022**, 4, 7,
-    5224–5233. doi:10.1021/acsapm.2c00738](https://doi.org/10.1021/acsapm.2c00738) 
+    5224–5233. [doi:10.1021/acsapm.2c00738](https://doi.org/10.1021/acsapm.2c00738) 
 2. **Pham, L. N.**; Walsh, T. Predicting Biomolecule Adsorption on
    MoS<sub>2</sub> Nanosheets with High Structural Fidelity. *Chem. Sci.*
    **2022**, 13, 5186-5195. [doi:10.1039/D1SC06814H](https://doi.org/10.1039/D1SC06814H) <span
