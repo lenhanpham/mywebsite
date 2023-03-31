@@ -46,12 +46,17 @@ $ git push origin main
 You can fix this by fetching and merging the changes made on the remote branch with the changes that you have made locally:
 
 $ git fetch origin
-# Fetches updates made to an online repository
+### Fetches updates made to an online repository
 $ git merge origin YOUR_BRANCH_NAME
-# Merges updates made online with your local work
+### ### Merges updates made online with your local work
 
 Or, you can simply use git pull to perform both commands at once:
 
 $ git pull origin YOUR_BRANCH_NAME
-# Grabs online updates and merges them with your local work
+### Grabs online updates and merges them with your local work
 
+## How to make a new post
+
+cd to the root dir of the website source (E:\WorksDocs\Website\mywebsite)  and use command "hugo new .\posts\name_of_new_post.md". Open this new file and change Draft to false. 
+
+Use hugo compile new posts. hugo server to make a local server available for first check.
