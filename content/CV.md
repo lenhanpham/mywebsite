@@ -20,7 +20,7 @@ I am a chemist (materials researcher) with  experience and expertise in physical
 
   **Researcher**  	
 
-  l.pham[at]flinders.edu.au
+  lenhan.pham[at]flinders.edu.au
 
   College of Science and Engineering   
   Flinders University                  
@@ -41,17 +41,16 @@ CV: [Le-Nhan-Pham.pdf](https://drive.google.com/file/d/12FOkFJByIS6zgvelCqHtm_DU
 
 **KU Leuven**, Leuven, Belgium
 
-**PhD**, Physical & Computational Chemistry, September 2019
+**PhD**, Physical & Computational Chemistry
 
 Dissertation Title: "Properties of small 3d-metal based clusters: A
 journey from wave function to density functional methods"
 
 **Pre-doctoral program**, Physical & Computational Chemistry, February
-2015 - June 2016
 
 **University of Science**, Ho Chi Minh City, Vietnam
 
-**M.S.**, Physical and Theoretical Chemistry, March 2010
+**M.S.**, Physical and Theoretical Chemistry
 
 Thesis Topic: "Fabrication of Dye Sensitized Solar Cells (DSSC) Using
 620-1H3TBA (Black Dye) and Investigation into Their Performance and
@@ -59,23 +58,21 @@ Long-term Stability"
 
 **University of Quy Nhon**, Quy Nhon, Vietnam
 
-B.E., Chemistry, May 2005
+B.E., Chemistry
 
 ### Working experience
 
-**Research Associate** College of Science and Engineering, Flinders University,
-from July 2022 to the current
+**Research Associate** College of Science and Engineering, Flinders University
 
 **Postdoctoral Research Fellow** Institute for Frontier Materials (IFM) - Deakin
-University, from July 2020 to June 2022
+University
 
-**Visiting Scholar** School of Science (Physics), RMIT University from
-February 2020 to June 2020
+**Visiting Scholar** School of Science (Physics), RMIT University 
 
-**Lecturer** Department of Chemistry, Dalat University from 2010 to 2020
+**Lecturer** Department of Chemistry, Dalat University
 
 **Researcher** Department of Chemistry, University of Science, Vietnam
-National University of Ho Chi Minh City from 2007 to 2009
+National University of Ho Chi Minh City
 
 **Exchange Student** Lars's Group, School of Chemistry, University of
-Melbourne during the PhD program (for 4 months)
+Melbourne during the PhD program 
