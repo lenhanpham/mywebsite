@@ -26,3 +26,7 @@ git push -f origin master
 
 #rename index(in-vietnamese).html to index.html and copy it to vietnamese directory in the public dir to change font support Vietnamese.
 
+# new post
+run hugo from Windows terminal 
+cd e/WorksDocs/Website/mywebsite/
+hugo new post/new_post_here.md
