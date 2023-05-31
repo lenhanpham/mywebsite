@@ -1,5 +1,5 @@
 ---
-title: "Hattrick"
+title: "Hot and most popular paper"
 date: 2023-05-31T12:55:24+09:30
 draft: false
 ---
