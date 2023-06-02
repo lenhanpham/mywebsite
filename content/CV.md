@@ -46,7 +46,7 @@ CV: [Le-Nhan-Pham.pdf](https://drive.google.com/file/d/12FOkFJByIS6zgvelCqHtm_DU
 Dissertation Title: "Properties of small 3d-metal based clusters: A
 journey from wave function to density functional methods"
 
-**Pre-doctoral program**, Physical & Computational Chemistry, February
+**Pre-doctoral program**, Physical & Computational Chemistry
 
 **University of Science**, Ho Chi Minh City, Vietnam
 
