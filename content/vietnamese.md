@@ -36,7 +36,7 @@ Một số bài báo giới thiệu nghiên cứu khoa học của Phạm Lê Nh
 
 Các hướng nghiên cứu của Phạm Lê Nhân tập trung vào một số lĩnh vực chuyên sâu liên quan đến nghiên cứu v vật liệu ứng dụng trong trong công nghệ sinh học, vật liệu polymer, xúc tác, vật liệu ứng dụng trong năng lượng, vật liệu vô cơ dạng cụm nguyên tử (clusters).
 
-Hướng nghiên cứu thứ hai tập trung vào vật liệu ứng dụng trong công nghệ sinh học và công nghiệp. Do đặc tính độ lớn của vật liệu và khả năng ứng dụng thực tế, các dự án có sự kết hợp chặt chẽ giữa mô phỏng với thực nghiệm. Phần mô phỏng được thực hiện bằng cách phát triển các trường lực (force field) mới cho từng hệ vật liệu và dự đoán các tiến trình tương tác sinh học có thể xảy ra phương pháp mô phỏng động học phân tử. Chi tiết về hướng nghiên cứu này sẽ được trình bày trong thời gian tới.
+Ở hướng nghiên cứu tập trung vào vật liệu ứng dụng trong công nghệ sinh học và công nghiệp, do đặc tính độ lớn của vật liệu và khả năng ứng dụng thực tế, các dự án có sự kết hợp chặt chẽ giữa mô phỏng với thực nghiệm. Phần mô phỏng được thực hiện bằng cách phát triển các trường lực (force field) mới cho từng hệ vật liệu và dự đoán các tiến trình tương tác sinh học có thể xảy ra phương pháp mô phỏng động học phân tử, hoặc dùng các phương pháp DFT trên hệ thống siêu máy tính để thiết kế, dự đoán, và mô phỏng các quá trình hoá lý. Chi tiết về hướng nghiên cứu này sẽ được trình bày trong thời gian tới.
 
 Ngoài ra, tác giả cũng đang đưa học máy (machine learning) vào một trong các dự án đang tiến hành. Chi tiết về việc sử dụng học máy cũng sẽ được trình bày chi tiết trong thời gian tới.
 
