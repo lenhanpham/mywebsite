@@ -6,11 +6,11 @@ draft: false
 
 ### Publications 
 
-1. G. S. Dobhal, L. N. Pham, S. A. Tawfik, C. Pozo-Gonzalo, and T. R. Walsh, *Exploring Coordination of Neodymium in Ionic Liquid: Insights to Guide Sustainable Recovery*, ACS Sustainable Chem. Eng. acssuschemeng.3c04920 (2023).
-2. C. Zhu, L. N. Pham, X. Yuan, H. Ouyang, M. L. Coote, and X. Zhang, *High Electric Fields on Water Microdroplets Catalyze Spontaneous and Fast Reactions in Halogen-Bond Complexes*, J. Am. Chem. Soc. jacs.3c08818 (2023).
+1. G. S. Dobhal, L. N. Pham, S. A. Tawfik, C. Pozo-Gonzalo, and T. R. Walsh, *Exploring Coordination of Neodymium in Ionic Liquid: Insights to Guide Sustainable Recovery*, ACS Sustainable Chem. Eng. (2023).
+2. C. Zhu, L. N. Pham, X. Yuan, H. Ouyang, M. L. Coote, and X. Zhang, *High Electric Fields on Water Microdroplets Catalyze Spontaneous and Fast Reactions in Halogen-Bond Complexes*, J. Am. Chem. Soc. (2023).
 3. T.-T. Yuan, J. Chen, L. N. Pham, S. Paul, L. V. White, J. Li, P. Lan, M. L. Coote, M. G. Banwell, and Y.-T. He, *Visible Light-Mediated Syntheses of Unsymmetrical Methylene-Bridged Bis-Heterocycles via an Alkoxy Radical Relay Reaction*, Org. Chem. Front. 10, 4649 (2023).
 4. S. J. Tonkin, L. N. Pham, J. R. Gascooke, M. R. Johnston, M. L. Coote, C. T. Gibson, and J. M. Chalker, *Thermal Imaging and Clandestine Surveillance Using Low‐Cost Polymers with Long‐Wave Infrared Transparency*, Advanced Optical Materials 11, 2300058 (2023).
-5. J. M. M. Pople, T. P. Nicholls, L. N. Pham, W. M. Bloch, L. S. Lisboa, M. V. Perkins, C. T. Gibson, M. L. Coote, Z. Jia, and J. M. Chalker, *Electrochemical Synthesis of Poly(Trisulfides)*, J. Am. Chem. Soc. jacs.3c03239 (2023).
+5. J. M. M. Pople, T. P. Nicholls, L. N. Pham, W. M. Bloch, L. S. Lisboa, M. V. Perkins, C. T. Gibson, M. L. Coote, Z. Jia, and J. M. Chalker, *Electrochemical Synthesis of Poly(Trisulfides)*, J. Am. Chem. Soc.  (2023).
 6. P. D. Hall, M. A. Stevens, J. Y. J. Wang, L. N. Pham, M. L. Coote, and A. L. Colebatch, *Copper and Zinc Complexes of 2,7-Bis(6-Methyl-2-Pyridyl)-1,8-naphthyridine─A Redox-Active, Dinucleating Bis(Bipyridine) Ligand*, Inorg. Chem. 61, 19333 (2022).
 7. L. N. Pham and T. R. Walsh, *Design Traits for Diblock Copolymer Coating Properties on NaGdF<sub>4</sub>. Upconversion Nanoparticles*, ACS Appl. Polym. Mater. 4, 5224 (2022).
 8. L. Nhan Pham and T. R. Walsh, *Predicting Biomolecule Adsorption on MoS<sub>2</sub> Nanosheets with High Structural Fidelity*, Chemical Science 13, 5186 (2022).
