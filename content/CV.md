@@ -35,7 +35,7 @@ Personal email: lenhanhoaqn[at]gmail.com
 
 Google scholar: [Google Scholar](https://scholar.google.com/citations?user=yC7hLR0AAAAJ&hl=en "Google Scholar")
 
-CV: [Le-Nhan-Pham.pdf](Le-Nhan-Pham-CV.pdf "CV")
+CV: [Le-Nhan-Pham.pdf](https://lenhanpham.github.io/cv/Le-Nhan-Pham-CV.pdf "CV")
 
 ### Education
 
