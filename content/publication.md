@@ -6,7 +6,7 @@ draft: false
 
 ### Publications 
 
-**24**\. Xing, X.; He, Y.T.; Song, J.G.; Lan, P.; White, L.V.; Tan, H.X.; L.N Pham; M. L. Coote.; Wu, X., Banwell, M.G., *The Synthesis and Ring-closing Reactions of Aminocyclohexane Derivatives Bearing Unsaturated Side-chains at C2*, Eur. J. Org. Chem. (2024, accepted)
+**24**\. Xing, X.; He, Y.T.; Song, J.G.; Lan, P.; White, L.V.; Tan, H.X.; L.N Pham; M. L. Coote.; Wu, X., Banwell, M.G., *The Synthesis and Ring-closing Reactions of Aminocyclohexane Derivatives Bearing Unsaturated Side-chains at C2*, Eur. J. Org. Chem. ([2024](https://doi.org/10.1002/ejoc.202400455))
 
 **23**\. S. Tan, S. Z. Zard, L. N. Pham, M. L. Coote, M. G. Banwell, P. Lan and  L. V. White, *Short Formal Syntheses of Lycorine and Congeners Using a 5 -Endo-Trig /6 -Endo-Trig Radical Cyclization Sequence*, Org. Lett., ([2024](https://doi.org/10.1021/acs.orglett.4c01271))
 
