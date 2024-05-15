@@ -8,9 +8,9 @@ draft: false
 
 **24**\. Xing, X.; He, Y.T.; Song, J.G.; Lan, P.; White, L.V.; Tan, H.X.; L.N Pham; M. L. Coote.; Wu, X., Banwell, M.G., *The Synthesis and Ring-closing Reactions of Aminocyclohexane Derivatives Bearing Unsaturated Side-chains at C2*, Eur. J. Org. Chem. ([2024](https://doi.org/10.1002/ejoc.202400455))
 
-**23**\. S. Tan, S. Z. Zard, L. N. Pham, M. L. Coote, M. G. Banwell, P. Lan and  L. V. White, *Short Formal Syntheses of Lycorine and Congeners Using a 5 -Endo-Trig /6 -Endo-Trig Radical Cyclization Sequence*, Org. Lett., ([2024](https://doi.org/10.1021/acs.orglett.4c01271))
+**23**\. S. Tan, S. Z. Zard, L. N. Pham, M. L. Coote, M. G. Banwell, P. Lan and  L. V. White, *Short Formal Syntheses of Lycorine and Congeners Using a 5 -Endo-Trig /6 -Endo-Trig Radical Cyclization Sequence*, Org. Lett. ([2024](https://doi.org/10.1021/acs.orglett.4c01271))
 
-**22**\. Y. B. Vogel, L. N. Pham, M. Stam, R. F. Ubbink, M. L. Coote and A. J.  Houtepen, *Solvation Shifts the Band-Edge Position of Colloidal Quantum  Dots by Nearly 1 eV*, J. Am. Chem. Soc., ([2024](https://doi.org/10.1021/jacs.4c00402))
+**22**\. Y. B. Vogel, L. N. Pham, M. Stam, R. F. Ubbink, M. L. Coote and A. J.  Houtepen, *Solvation Shifts the Band-Edge Position of Colloidal Quantum  Dots by Nearly 1 eV*, J. Am. Chem. Soc. ([2024](https://doi.org/10.1021/jacs.4c00402))
 
 **21**\. M. Tang, F. Draper, L. N. Pham, C. C. Ho, H. Huang, J. Sun, S. C.  Thickett, M. L. Coote, T. U. Connell and A. C. Bissember, Photochemical  Povarov-type Reactions: Electron Donor–Acceptor Photoactivation by  Visible Light, *J. Org. Chem.* ([2024](https://doi.org/10.1021/acs.joc.3c02746))
 
@@ -24,7 +24,7 @@ draft: false
 
 **16**\. S. J. Tonkin, L. N. Pham, J. R. Gascooke, M. R. Johnston, M. L. Coote, C. T. Gibson, and J. M. Chalker, *Thermal Imaging and Clandestine Surveillance Using Low‐Cost Polymers with Long‐Wave Infrared Transparency*, Advanced Optical Materials 11, 2300058 ([2023](https://doi.org/10.1002/adom.202300058)).
 
-**15**\. J. M. M. Pople, T. P. Nicholls, L. N. Pham, W. M. Bloch, L. S. Lisboa, M. V. Perkins, C. T. Gibson, M. L. Coote, Z. Jia, and J. M. Chalker, *Electrochemical Synthesis of Poly(Trisulfides)*, J. Am. Chem. Soc.([2023](https://doi.org/10.1021/jacs.3c03239)).
+**15**\. J. M. M. Pople, T. P. Nicholls, L. N. Pham, W. M. Bloch, L. S. Lisboa, M. V. Perkins, C. T. Gibson, M. L. Coote, Z. Jia, and J. M. Chalker, *Electrochemical Synthesis of Poly(Trisulfides)*, J. Am. Chem. Soc. ([2023](https://doi.org/10.1021/jacs.3c03239)).
 
 **14**\. P. D. Hall, M. A. Stevens, J. Y. J. Wang, L. N. Pham, M. L. Coote, and A. L. Colebatch, *Copper and Zinc Complexes of 2,7-Bis(6-Methyl-2-Pyridyl)-1,8-naphthyridine─A Redox-Active, Dinucleating Bis(Bipyridine) Ligand*, Inorg. Chem. 61, 19333 ([2022](https://doi.org/10.1021/acs.inorgchem.2c03126)).
 
