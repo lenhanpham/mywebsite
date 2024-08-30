@@ -59,4 +59,4 @@ $ git pull origin YOUR_BRANCH_NAME
 
 cd to the root dir of the website source (E:\WorksDocs\Website\mywebsite)  and use command "hugo new .\post\name_of_new_post.md". Open this new file and change Draft to false. 
 
-Use hugo compile new posts. hugo server to make a local server available for first check.
+Use hugo compile new posts. hugo server to make a local server available for first check: http://localhost:1313/
